@@ -1,0 +1,17 @@
+{
+    "name": "hexlet/drudim",
+    "description": "ect PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Drudim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitrii Alkhimov",
+            "email": "drudim75@gmail.com"
+        }
+    ],
+    "require": {}
+}
